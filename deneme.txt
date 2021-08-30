@@ -5,3 +5,5 @@ yeni eklemeler
 murat
 çakışma olacak 
 deneme remote
+değişiklik 
+bir değişiklik daha 
