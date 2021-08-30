@@ -5,7 +5,7 @@ yeni eklemeler
 murat
 çakışma olacak 
 deneme remote
-<<<<<<< HEAD
+silinen kısım 
 değişiklik 
 bir değişiklik daha 
 çakışma 2
