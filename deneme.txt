@@ -3,3 +3,4 @@ ekleme yapıyorum
 kontrol edeceğim 
 yeni eklemeler 
 murat
+deneme remote
