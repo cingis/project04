@@ -4,3 +4,4 @@ kontrol edeceğim
 yeni eklemeler 
 murat
 çakışma olacak 
+deneme remote
