@@ -5,3 +5,4 @@ yeni eklemeler
 murat
 çakışma olacak 
 deneme remote
+çakışma 2
